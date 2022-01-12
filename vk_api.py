@@ -10,7 +10,7 @@ from datetime import datetime, date, time
 from random import randint
 from time import sleep
 
-access_token = '3f73363a973f6c6a606ffd786a3d56e2a767d5cadd576c08a3bf0e70488a58a523a5264deb56d5a0c7431'
+access_token = 'secret'
 
 class VkApiRequestClass:
     def __init__(self, token):
